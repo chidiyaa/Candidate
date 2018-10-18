@@ -1,0 +1,31 @@
+{
+   "candidateId":"12",
+ "candidateName":"sud",
+ "address":"Mum",
+ "dob":"1995-04-27",
+"emailId":"sud@gmail",
+ "contactNumber":"8983451766",
+ "maritalStatus":"um",
+ "gender":"male",
+ "passportNumber":"32143",
+ "qualificationId":"1234",
+ "qualificationName":"B.Tech",
+	 "specializationArea":"EXTC",
+	 "collegeName":"KJSCE",
+	 "universityName":"Mumbai",
+	 "yearOfpassing":"2018",
+ "percentage":56,
+		 "workId":"12354",
+		 
+		"whichEmployer":"Abhi",
+		  "contactPerson":"rahul",
+		 "positionHeld":"Analyst",
+		  "companyName":"Capgemini",
+		   "employmentFrom":"1995-04-26",
+		     "employmentTo":"1995-04-26",
+		    "reasonForLeaving":"Salary",
+		    "responsibilities":"Akl",
+	"hrRepName":"Sud",
+	 "hrRepContactNum":"852456"
+   
+}
